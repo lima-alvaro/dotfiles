@@ -1,0 +1,5 @@
+alias vim="nvim"
+alias vi="nvim"
+alias oldvim="\\vim"
+alias icat="kitty +kitten icat"
+alias ls="ls --color"
